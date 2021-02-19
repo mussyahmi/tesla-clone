@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Tesla Clone
+A Tesla clone built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Author
+Mustafa Syahmi (mussyahmi)
+
+# Demo
+The app is deployed using Firebase at https://tesla-clone-b3e4d.web.app/
 
 ## Available Scripts
 
